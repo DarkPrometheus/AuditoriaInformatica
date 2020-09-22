@@ -14,7 +14,8 @@
 
 **<div align="center">DESARROLLO DE APLICACIONES WEB</div>**
 
-**<div align="center">FRIAS AVIÑA EMMANUEL 17211670</div>**
+**<div align="center">Frias Aviña Emmanuel 17211670</div>**
+**<div align="center">Ramirez Sandoval Roberto Axel 182107190</div>**
 
 **<div align="center">JUAN MANUEL HERNANDEZ MARTINEZ</div>**
 
@@ -23,31 +24,31 @@
 ___
 
 **1. ¿Qué sistema operativo utiliza en su computadora?**
-A. Windows
-B. MAC OS
-C. Linux
-D.Otro:_________
+1. Windows
+2. B. MAC OS
+3. Linux
+4. Otro:_________
 
 **2. ¿Con cuánta capacidad cuenta su equipo?**
-A. Menos de 100GB
-B.100-200GB
-C.  Mayor de 200GB
+1. Menos de 100GB
+2. 100-200GB
+3. Mayor de 200GB
 
 **3. ¿Cuenta con algún antivirus?**
-A. Si
-B. No
+1. Si
+2. No
 
 **4. ¿Cuánto tiempo tarda en entrar a Windows?**
-A. Menos de 30s
-B. Menos de 60s	
-C. Más de 2m
-D. Otro: __________
+1. Menos de 30s
+2. Menos de 60s	
+3. Más de 2m
+4. Otro: __________
 
 **5. ¿Cuándo fue la última vez que actualizó sus sistemas?**
-A. Estoy a fecha
-B. Hace un mes
-C. Hace 3 meses
-D. Más de 3 meses
+1. Estoy a fecha
+2. Hace un mes
+3. Hace 3 meses
+4. Más de 3 meses
 
 **6. ¿Qué programas utiliza en su computadora?**
 - [ ] MS Office
@@ -58,25 +59,25 @@ D. Más de 3 meses
 - [ ] Adobe Photoshop
 
 **7. ¿Qué funcionamiento tiene su equipo?**
-A. Bueno
-B. Regular
-C. Malo
+1. Bueno
+2. Regular
+3. Malo
 
 **8. ¿Se cuenta con el manual de calidad?**
-A. Última fecha de actualización
-B. Alcance
-C. Campo de aplicación
+1. Última fecha de actualización
+2. Alcance
+3. Campo de aplicación
  
 **9. ¿Con qué frecuencia realiza limpieza en su PC?**
-A. De 3 a 6 meses
-B.Cada Mes
-C.Cada Año
-D.Nunca
+1. De 3 a 6 meses
+2. Cada Mes
+3. Cada Año
+4. Nunca
 
 **10. ¿Su computadora cuenta con contraseña para ingresar?**
-A. Si
-B. No
+1. Si
+2. No
 
 **11. ¿Cuenta con las entradas de USB habilitadas?**
-A. Si
-B. No
+1. Si
+2. No

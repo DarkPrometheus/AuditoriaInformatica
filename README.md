@@ -14,7 +14,8 @@
 
 **<div align="center">AUDITORIA INFORMATICA</div>**
 
-**<div align="center">FRIAS AVIÑA EMMANUEL 17211670</div>**
+**<div align="center">Frias Aviña Emmanuel 17211670</div>**
+**<div align="center">Ramirez Sandoval Roberto Axel 182107190</div>**
 
 **<div align="center">OCTAVIO ROMERO FLORES</div>**
 
