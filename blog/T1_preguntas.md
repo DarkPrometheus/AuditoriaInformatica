@@ -6,9 +6,9 @@
 
 **<div align="center">SUBDIRECCIÓN ACADÉMICA</div>**
 
-**<div align="center">DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN</div>**
+**<div align="center">AUDITORIA INFORMATICA</div>**
 
-**<div align="center">SET-ENE 2020-21</div>**
+**<div align="center">SEP-ENE 2020-21</div>**
 
 **<div align="center">INGENIERÍA INFORMÁTICA</div>**
 
@@ -18,13 +18,14 @@
 **<div align="center">Frias Aviña Emmanuel 17211670</div>**
 **<div align="center">Gomez Cisneros Carlos Alberto 18210711</div>**
 **<div align="center">Howard Herrera Erwin 18210716</div>**
-**<div align="center">Perez Ortega Victoria Valeria 182107</div>**
+**<div align="center">Perez Ortega Victoria Valeria 18210718</div>**
 **<div align="center">Ramirez Sandoval Roberto Axel 18210719</div>**
 **<div align="center">Ramos Verdin Paula Andrea 18210721</div>**
+**<div align="center">Valdez Contreras Isaac 182107 </div>**
 
 
 
-**<div align="center">HERNANDEZ MARTINEZ JUAN MANUEL</div>**
+**<div align="center">ROMERO FLORES OCTAVIO</div>**
 
 **<div align="center">21/09/20</div>**
 
