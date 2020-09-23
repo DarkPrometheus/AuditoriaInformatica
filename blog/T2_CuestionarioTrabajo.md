@@ -20,6 +20,9 @@
 **<div align="center">Juan Manuel Hernandez Martinez</div>**
 **<div align="center">Ramirez Sandoval Roberto Axel 182107190</div>**
 **<div align="center">Ramos Verdin Paula Andrea 18210721</div>**
+**<div align="center">Valdez Contreras Isaac 18210725 </div>**
+
+**<div align="center">Romero Flores Octavio</div>**
 
 **<div align="center">22/09/20</div>**
 
