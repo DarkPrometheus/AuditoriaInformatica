@@ -14,14 +14,17 @@
 
 **<div align="center">DESARROLLO DE APLICACIONES WEB</div>**
 
-**<div align="center">Frias Aviña Emmanuel 17211670</div>**
-**<div align="center">Ramirez Sandoval Roberto Axel 182107190</div>**
-**<div align="center">Gomez Cisneros Carlos Alberto 18210711</div>**
-**<div align="center">Ramos Verdin Paula Andrea 18210721</div>**
-**<div align="center">Howard Herrera Erwin 18210716</div>**
 **<div align="center">Duarte Parra Luis Adrian 17212337</div>**
+**<div align="center">Frias Aviña Emmanuel 17211670</div>**
+**<div align="center">Gomez Cisneros Carlos Alberto 18210711</div>**
+**<div align="center">Howard Herrera Erwin 18210716</div>**
+**<div align="center">Perez Ortega Victoria Valeria 182107</div>**
+**<div align="center">Ramirez Sandoval Roberto Axel 18210719</div>**
+**<div align="center">Ramos Verdin Paula Andrea 18210721</div>**
 
-**<div align="center">JUAN MANUEL HERNANDEZ MARTINEZ</div>**
+
+
+**<div align="center">HERNANDEZ MARTINEZ JUAN MANUEL</div>**
 
 **<div align="center">21/09/20</div>**
 
