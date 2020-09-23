@@ -21,7 +21,7 @@
 **<div align="center">Perez Ortega Victoria Valeria 18210718</div>**
 **<div align="center">Ramirez Sandoval Roberto Axel 18210719</div>**
 **<div align="center">Ramos Verdin Paula Andrea 18210721</div>**
-**<div align="center">ROMERO FLORES OCTAVIO</div>**
+**<div align="center">Romero Flores Octavio</div>**
 **<div align="center">Valdez Contreras Isaac 18210725 </div>**
 
 
