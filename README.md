@@ -28,3 +28,4 @@ ___
 ## Trabajos
 - Unidad 1
   - [Preguntas de auditoria](blog/T1_preguntas.md)
+  - [Cestionario area de trabajo](blog/T2_CuestionarioTrabajo.md)
