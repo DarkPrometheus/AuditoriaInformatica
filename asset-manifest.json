@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AuditoriaInformatica/static/css/main.29a03b30.chunk.css",
-    "main.js": "/AuditoriaInformatica/static/js/main.0c216330.chunk.js",
-    "main.js.map": "/AuditoriaInformatica/static/js/main.0c216330.chunk.js.map",
+    "main.js": "/AuditoriaInformatica/static/js/main.2c53bfd4.chunk.js",
+    "main.js.map": "/AuditoriaInformatica/static/js/main.2c53bfd4.chunk.js.map",
     "runtime-main.js": "/AuditoriaInformatica/static/js/runtime-main.916646c0.js",
     "runtime-main.js.map": "/AuditoriaInformatica/static/js/runtime-main.916646c0.js.map",
     "static/js/2.3456a36a.chunk.js": "/AuditoriaInformatica/static/js/2.3456a36a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.916646c0.js",
     "static/js/2.3456a36a.chunk.js",
     "static/css/main.29a03b30.chunk.css",
-    "static/js/main.0c216330.chunk.js"
+    "static/js/main.2c53bfd4.chunk.js"
   ]
 }
