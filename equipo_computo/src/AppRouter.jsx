@@ -14,7 +14,7 @@ export const AppRouter = () => {
         <Router>
             <NavBar />
             <Switch>
-                <Route exact path="/" component={App} />
+                <Route exact path="/AuditoriaInformatica/" component={App} />
                 {
                     data.map(a => {
                         return <Route exact path={"/" + a.name} component={PcPagina} />
