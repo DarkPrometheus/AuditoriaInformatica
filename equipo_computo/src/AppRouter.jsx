@@ -17,7 +17,7 @@ export const AppRouter = () => {
                 <Route exact path="/AuditoriaInformatica/" component={App} />
                 {
                     data.map(a => {
-                        return <Route exact path={"/" + a.name} component={PcPagina} />
+                        return <Route exact path={"/AuditoriaInformatica/" + a.name} component={PcPagina} />
                     })
                 }
             </Switch>
