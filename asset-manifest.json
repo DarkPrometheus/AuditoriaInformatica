@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AuditoriaInformatica/static/css/main.29a03b30.chunk.css",
+    "main.js": "/AuditoriaInformatica/static/js/main.e63beb7b.chunk.js",
+    "main.js.map": "/AuditoriaInformatica/static/js/main.e63beb7b.chunk.js.map",
+    "runtime-main.js": "/AuditoriaInformatica/static/js/runtime-main.916646c0.js",
+    "runtime-main.js.map": "/AuditoriaInformatica/static/js/runtime-main.916646c0.js.map",
+    "static/js/2.33edc24f.chunk.js": "/AuditoriaInformatica/static/js/2.33edc24f.chunk.js",
+    "static/js/2.33edc24f.chunk.js.map": "/AuditoriaInformatica/static/js/2.33edc24f.chunk.js.map",
+    "index.html": "/AuditoriaInformatica/index.html",
+    "static/css/main.29a03b30.chunk.css.map": "/AuditoriaInformatica/static/css/main.29a03b30.chunk.css.map",
+    "static/js/2.33edc24f.chunk.js.LICENSE.txt": "/AuditoriaInformatica/static/js/2.33edc24f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.916646c0.js",
+    "static/js/2.33edc24f.chunk.js",
+    "static/css/main.29a03b30.chunk.css",
+    "static/js/main.e63beb7b.chunk.js"
+  ]
+}
