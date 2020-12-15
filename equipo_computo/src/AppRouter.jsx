@@ -14,10 +14,10 @@ export const AppRouter = () => {
         <Router>
             <NavBar />
             <Switch>
-                <Route exact path="/AuditoriaInformatica/" component={App} />
+                <Route exact path="./AuditoriaInformatica/" component={App} />
                 {
                     data.map(a => {
-                        return <Route exact path={"/AuditoriaInformatica/" + a.name} component={PcPagina} />
+                        return <Route exact path={"./AuditoriaInformatica/" + a.name} component={PcPagina} />
                     })
                 }
             </Switch>
