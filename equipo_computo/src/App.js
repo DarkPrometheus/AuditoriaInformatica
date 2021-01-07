@@ -1,5 +1,5 @@
 import { Computadora } from './components/Computadora';
-import { data } from "./data"
+import { data } from "./Services/data"
 import { Presentacion } from './components/Presentacion';
 
 function App() {
@@ -16,13 +16,6 @@ function App() {
       </div>
     </div>
   );
-}
-
-let delay = 0;
-function delayf() {
-  delay++;
-  console.log(delay)
-  return delay;
 }
 
 export default App;
