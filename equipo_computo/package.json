@@ -1,5 +1,6 @@
 {
   "name": "equipo_computo",
+  "homepage": "https://darkprometheus.github.io/AuditoriaInformatica/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

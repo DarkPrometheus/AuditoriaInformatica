@@ -7,3 +7,4 @@ ReactDOM.render(
   <AppRouter />,
   document.getElementById('root')
 );
+// "homepage": "https://darkprometheus.github.io/AuditoriaInformatica/",
